@@ -1,126 +1,56 @@
-# Keyboard DJ 🎵
+# 🎵 Keyboard DJ by SHANMUKHCR7 🎵
 
-Keyboard DJ is a fun, interactive desktop application that plays background music while you type. Whenever you press any key, the music starts. Stop typing, and the music pauses smoothly. It's designed to make long coding or writing sessions feel like a rhythm game!
+Have you ever wanted to feel like a DJ or a Pianist while you are just typing an essay, coding, or writing an email? 
+Welcome to **Keyboard DJ**! 
 
-![Keyboard DJ Screenshot](https://via.placeholder.com/800x500.png?text=Keyboard+DJ+Screenshot)
+Whenever you type anywhere on your computer (Notepad, Word, Chrome, VS Code), the music starts playing. As soon as you stop typing, the music pauses seamlessly. It turns your boring typing tasks into an interactive rhythm game!
 
-## Features 🚀
+---
 
-*   **Global Keyboard Detection**: Works in the background regardless of what application you are currently using (Chrome, VS Code, Word, etc.).
-*   **Smart Music Engine**: Plays, pauses, and resumes exactly from where it left off. Never restarts the song abruptly.
-*   **Typing Detection & Stats**: Real-time calculation of Words Per Minute (WPM) and total keys pressed.
-*   **Modern GUI**: A sleek dark mode interface built with CustomTkinter.
-*   **Fun Modes**:
-    *   **DJ Mode**: Normal play/pause behavior.
-    *   **Meme Mode**: Every key randomly plays a meme sound effect (add your sounds to `assets/music/memes/`).
-    *   **Piano Mode**: Turns your keyboard into a piano. Keys correspond to specific notes.
-    *   **Random Playlist**: Pick a new random song after 5 seconds of inactivity.
-    *   **Typing Speed Mode**: Simulates changing playback speed by adjusting volume based on how fast you type.
-*   **System Tray Integration**: Minimize to the system tray so it stays out of your way.
-*   **Global Hotkeys**:
-    *   `Ctrl+Alt+P` - Pause/Resume
-    *   `Ctrl+Alt+S` - Stop
-    *   `Ctrl+Alt+M` - Mute
+## 🔥 Awesome Features
 
-## Project Structure 📁
+*   **Global Typing Detection**: It works in the background no matter what application you have open!
+*   **Two Epic Modes**:
+    1.  🎧 **DJ Mode (Song)**: Play your favorite background track (MP3/WAV/OGG). It plays while you type and pauses when you stop.
+    2.  🎹 **Indian Piano Mode (Keys)**: Your keyboard turns into a Piano! The middle row keys (`A, S, D, F, G, H, J, K`) play authentic Just-Intonation Indian Piano notes (*Sa, Re, Ga, Ma, Pa, Dha, Ni, Sa*).
+*   **Beautiful Terminal Interface**: Built with a sleek ASCII logo and a super simple setup process.
+*   **Hidden UI**: The actual control panel hides in your system tray so it doesn't distract you!
 
-```text
-KeyboardDJ/
-├── main.py                  # Entry point of the application
-├── player.py                # Pygame music player wrapper and fun modes logic
-├── keyboard_listener.py     # Global hook, WPM calculation, inactivity timeout
-├── settings.py              # Configuration manager
-├── gui.py                   # CustomTkinter interface
-├── config.json              # Saved user settings
-├── requirements.txt         # Python dependencies
-├── README.md                # Project documentation
-├── logs/
-│   └── keyboarddj.log       # Application logs
-└── assets/
-    ├── icons/               # System tray icons
-    └── music/
-        ├── memes/           # Folder for Meme Mode sounds (.wav/.mp3)
-        └── piano/           # Folder for Piano Mode sounds (A.wav, C.wav etc.)
+---
+
+## 🚀 How to Run It (Super Easy!)
+
+You don't need to be a programmer to use this. Just follow these 3 steps:
+
+### 1. Download the Project
+Clone or download this repository to your computer.
+*(If you are on a Mac, use the `KeyboardDJ_Mac` folder!)*
+
+### 2. Install Requirements
+Make sure you have Python installed. Open your terminal or command prompt inside the project folder and run:
+```bash
+pip install -r requirements.txt
 ```
 
-## Requirements ⚙️
+### 3. Run the App & Feel the Music!
+```bash
+python main.py
+```
+You will be greeted by the **SHANMUKHCR7** logo and asked to pick a mode.
+Add your own `.mp3` songs to the `assets/music/` folder and they will automatically show up in the menu!
 
-*   Python 3.11+
-*   Windows OS (for global hooking best compatibility)
+Minimize the terminal, start typing anywhere, and enjoy the vibe! 🎶
 
-## Installation & Setup 🛠️
+---
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/KeyboardDJ.git
-   cd KeyboardDJ
-   ```
+## ⚙️ Advanced Settings (Hidden GUI)
+If you want to change the volume, adjust how fast the music pauses after you stop typing (Timeout), or see your **Live Typing Speed (WPM)**, just double-click the green Keyboard DJ icon in your system tray (bottom right of your screen on Windows) to open the control panel!
 
-2. **Create a virtual environment (optional but recommended)**:
-   ```bash
-   python -m venv venv
-   venv\Scripts\activate
-   ```
+### Global Hotkeys
+*   `Ctrl+Alt+P` - Pause/Resume manually
+*   `Ctrl+Alt+S` - Stop completely
+*   `Ctrl+Alt+M` - Mute
 
-3. **Install the dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+---
 
-4. **Run the application**:
-   ```bash
-   python main.py
-   ```
-
-## Usage 🎧
-
-1. Launch the application.
-2. Click **Load Music** and select an `.mp3`, `.wav`, or `.ogg` file.
-3. Start typing anywhere on your computer! The music will begin playing.
-4. Stop typing, and after the configured timeout (default 300ms), the music will pause.
-5. Adjust the **Timeout** and **Volume** sliders to your preference.
-6. Select different **Fun Modes** from the dropdown to spice up your typing experience.
-
-## How to Package into an EXE using PyInstaller 📦
-
-If you want to distribute the app as a standalone executable without requiring users to install Python, you can use PyInstaller:
-
-1. Install PyInstaller:
-   ```bash
-   pip install pyinstaller
-   ```
-
-2. Run PyInstaller to build the project. The `--noconsole` flag hides the terminal window, and `--onefile` packages it into a single EXE. We also need to include the `customtkinter` library assets:
-   ```bash
-   pyinstaller --noconsole --onefile --name "KeyboardDJ" --collect-all customtkinter main.py
-   ```
-   *(Note: You may also need to manually copy the `assets/` directory to the `dist/` folder next to your EXE so the app can find your music and icons).*
-
-3. Your executable will be available in the `dist/` folder!
-
-## Troubleshooting Guide 🔧
-
-**1. Music isn't playing when I type:**
-*   Check if you have loaded a music file.
-*   Check the volume slider.
-*   Look at `logs/keyboarddj.log` for any pygame initialization errors.
-
-**2. Global hotkeys aren't working:**
-*   Sometimes Windows security restricts global hooks. Try running the application or your IDE as an Administrator.
-
-**3. "Missing module" errors on launch:**
-*   Ensure you have installed all requirements: `pip install -r requirements.txt`.
-
-**4. CPU Usage is high:**
-*   The application is designed to stay under 2% CPU. If you see high usage, ensure you haven't modified the `time.sleep(0.05)` inside the monitoring loop in `keyboard_listener.py`.
-
-## Future Enhancements 🔮
-
-*   **Spotify/Apple Music Integration**: Instead of local MP3 files, integrate with Spotify API to control playback of your favorite playlists.
-*   **Native Speed Control**: Implement an advanced audio processing library (like `pydub` or `soundfile`) to dynamically stretch/compress audio speed without altering pitch for the "Typing Speed Mode".
-*   **Theme Customization**: Allow users to pick custom accent colors for the CustomTkinter UI.
-*   **Mac/Linux Support**: Polish the global hooking and system tray integration for cross-platform support.
-
-## License 📜
-
-MIT License. See `LICENSE` for more details.
+*Created by **SHANMUKHCR7**. Feel free to fork, share, and enjoy!*

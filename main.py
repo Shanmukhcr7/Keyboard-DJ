@@ -62,18 +62,26 @@ class KeyboardDJApp:
         """Starts the application."""
         try:
             # Prompt user for mode via terminal
-            print("\n" + "="*40)
-            print("Welcome to Keyboard DJ!")
-            print("="*40)
+            print("\n" + "="*57)
+            print(r"""
+  _  __          _                         _  ____  _ 
+ | |/ /___ _   _| |__   ___   __ _ _ __ __| |/ ___|| |
+ | ' // _ \ | | | '_ \ / _ \ / _` | '__/ _` | |  _ | |
+ | . \  __/ |_| | |_) | (_) | (_| | | | (_| | |_| || |
+ |_|\_\___|\__, |_.__/ \___/ \__,_|_|  \__,_|\____||_|
+           |___/                                      
+               by SHANMUKHCR7
+""")
+            print("="*57)
             print("1. Play the background 'Song' (DJ Mode)")
             print("2. Play Indian Piano 'Keys'")
-            print("="*40)
+            print("="*57)
             
             while True:
                 choice = input("Enter your choice (1 or 2): ").strip()
                 if choice == '1':
                     self.settings.set("fun_mode", "DJ Mode")
-                    print("--> Selected: Song Mode")
+                    print("\n--> Selected: Song Mode")
                     
                     # Search for MP3s
                     search_dirs = [".", "assets/music"]
@@ -90,33 +98,33 @@ class KeyboardDJApp:
                             print(f"{idx + 1}. {os.path.basename(f)}")
                         
                         while True:
-                            song_choice = input(f"Select a song (1-{len(mp3_files)}): ").strip()
+                            song_choice = input(f"\nSelect a song (1-{len(mp3_files)}): ").strip()
                             try:
                                 s_idx = int(song_choice) - 1
                                 if 0 <= s_idx < len(mp3_files):
                                     selected_song = mp3_files[s_idx]
                                     self.settings.set("music_file", selected_song)
                                     self.player.load_music(selected_song)
-                                    print(f"--> Selected Song: {os.path.basename(selected_song)}")
+                                    print(f"--> Loaded: {os.path.basename(selected_song)}")
                                     break
                                 else:
                                     print("Invalid number.")
                             except ValueError:
                                 print("Please enter a valid number.")
                     else:
-                        print("No songs found in current directory or assets/music/.")
+                        print("\nNo songs found in current directory or assets/music/.")
                     break
                 elif choice == '2':
                     self.settings.set("fun_mode", "Indian Piano Mode")
-                    print("--> Selected: Indian Piano Keys Mode")
+                    print("\n--> Selected: Indian Piano Keys Mode")
                     break
                 else:
                     print("Invalid input. Please type 1 or 2.")
-            print("="*40 + "\n")
-            
-            logger.info("Opening Notepad for testing...")
-            import subprocess
-            subprocess.Popen(["notepad.exe"])
+                    
+            print("\n" + "★"*57)
+            print(" 🎶  AWESOME! Minimize this window, start typing")
+            print("     anywhere on your computer, and FEEL THE MUSIC!  🎶")
+            print("★"*57 + "\n")
             
             self.listener.start()
             
