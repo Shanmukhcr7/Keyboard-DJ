@@ -288,3 +288,139 @@
 2026-07-22 21:23:38,558 [INFO] player: Playback paused.
 2026-07-22 21:23:38,734 [INFO] player: Playback resumed.
 2026-07-22 21:23:43,170 [INFO] player: Playback paused.
+2026-07-22 21:29:13,337 [INFO] __main__: ========================================
+2026-07-22 21:29:13,338 [INFO] __main__: Program Started: Keyboard DJ
+2026-07-22 21:29:13,338 [INFO] __main__: ========================================
+2026-07-22 21:29:13,852 [INFO] __main__: Initializing components...
+2026-07-22 21:29:13,867 [INFO] settings: Settings loaded successfully.
+2026-07-22 21:29:14,199 [INFO] player: Pygame mixer initialized successfully.
+2026-07-22 21:29:14,200 [INFO] settings: Settings saved successfully.
+2026-07-22 21:29:14,994 [INFO] settings: Settings saved successfully.
+2026-07-22 21:29:14,995 [INFO] player: Loaded music: .\pallaki lo pellikuthuru.mp3
+2026-07-22 21:29:17,673 [INFO] settings: Settings saved successfully.
+2026-07-22 21:29:23,431 [INFO] settings: Settings saved successfully.
+2026-07-22 21:29:23,449 [INFO] settings: Settings saved successfully.
+2026-07-22 21:29:23,449 [INFO] player: Loaded music: .\bulletu bandi.mp3
+2026-07-22 21:29:23,450 [INFO] __main__: Opening Notepad for testing...
+2026-07-22 21:29:23,511 [INFO] keyboard_listener: Keyboard listener started.
+2026-07-22 21:29:23,517 [INFO] keyboard_listener: Global hotkeys registered.
+2026-07-22 21:29:30,418 [INFO] player: Playback started.
+2026-07-22 21:29:31,111 [INFO] player: Playback paused.
+2026-07-22 21:29:31,321 [INFO] player: Playback resumed.
+2026-07-22 21:29:32,730 [INFO] player: Playback paused.
+2026-07-22 21:29:32,747 [INFO] player: Playback resumed.
+2026-07-22 21:29:34,504 [INFO] player: Playback paused.
+2026-07-22 21:29:34,593 [INFO] player: Playback resumed.
+2026-07-22 21:29:36,275 [INFO] player: Playback paused.
+2026-07-22 21:29:37,074 [INFO] player: Playback resumed.
+2026-07-22 21:29:37,541 [INFO] player: Playback paused.
+2026-07-22 21:29:37,776 [INFO] player: Playback resumed.
+2026-07-22 21:29:38,112 [INFO] player: Playback paused.
+2026-07-22 21:29:39,139 [INFO] player: Playback resumed.
+2026-07-22 21:29:40,694 [INFO] player: Playback paused.
+2026-07-22 21:29:40,710 [INFO] player: Playback resumed.
+2026-07-22 21:29:43,025 [INFO] player: Playback paused.
+2026-07-22 21:29:43,046 [INFO] player: Playback resumed.
+2026-07-22 21:29:43,938 [INFO] player: Playback paused.
+2026-07-22 21:29:44,071 [INFO] player: Playback resumed.
+2026-07-22 21:29:46,825 [INFO] player: Playback paused.
+2026-07-22 21:29:47,141 [INFO] player: Playback resumed.
+2026-07-22 21:29:47,538 [INFO] player: Playback paused.
+2026-07-22 21:29:47,836 [INFO] player: Playback resumed.
+2026-07-22 21:29:48,147 [INFO] player: Playback paused.
+2026-07-22 21:30:11,785 [INFO] player: Playback resumed.
+2026-07-22 21:30:12,393 [INFO] player: Playback paused.
+2026-07-22 21:30:12,733 [INFO] player: Playback resumed.
+2026-07-22 21:30:13,365 [INFO] player: Playback paused.
+2026-07-22 21:30:14,392 [INFO] player: Playback resumed.
+2026-07-22 21:30:15,545 [INFO] player: Playback paused.
+2026-07-22 21:30:16,200 [INFO] player: Playback resumed.
+2026-07-22 21:30:17,876 [INFO] player: Playback paused.
+2026-07-22 21:30:18,553 [INFO] player: Playback resumed.
+2026-07-22 21:30:19,751 [INFO] player: Playback paused.
+2026-07-22 21:30:19,779 [INFO] player: Playback resumed.
+2026-07-22 21:30:21,425 [INFO] player: Playback paused.
+2026-07-22 21:30:22,333 [INFO] player: Playback resumed.
+2026-07-22 21:30:22,795 [INFO] player: Playback paused.
+2026-07-22 21:30:23,244 [INFO] player: Playback resumed.
+2026-07-22 21:30:24,771 [INFO] player: Playback paused.
+2026-07-22 21:30:24,859 [INFO] player: Playback resumed.
+2026-07-22 21:30:26,595 [INFO] player: Playback paused.
+2026-07-22 21:30:26,706 [INFO] player: Playback resumed.
+2026-07-22 21:30:27,406 [INFO] player: Playback paused.
+2026-07-22 21:30:27,718 [INFO] player: Playback resumed.
+2026-07-22 21:30:28,676 [INFO] player: Playback paused.
+2026-07-22 21:30:28,725 [INFO] player: Playback resumed.
+2026-07-22 21:30:29,337 [INFO] player: Playback paused.
+2026-07-22 21:30:29,952 [INFO] player: Playback resumed.
+2026-07-22 21:30:32,885 [INFO] player: Playback paused.
+2026-07-22 21:30:32,963 [INFO] player: Playback resumed.
+2026-07-22 21:30:33,948 [INFO] player: Playback paused.
+2026-07-22 21:30:34,372 [INFO] player: Playback resumed.
+2026-07-22 21:30:35,519 [INFO] player: Playback paused.
+2026-07-22 21:30:35,598 [INFO] player: Playback resumed.
+2026-07-22 21:30:36,381 [INFO] player: Playback paused.
+2026-07-22 21:30:53,835 [INFO] player: Playback resumed.
+2026-07-22 21:30:56,479 [INFO] player: Playback paused.
+2026-07-22 21:31:30,147 [INFO] player: Playback resumed.
+2026-07-22 21:31:33,364 [INFO] player: Playback paused.
+2026-07-22 21:31:33,390 [INFO] player: Playback resumed.
+2026-07-22 21:31:33,924 [INFO] player: Playback paused.
+2026-07-22 21:31:35,408 [INFO] player: Playback resumed.
+2026-07-22 21:31:36,911 [INFO] player: Playback paused.
+2026-07-22 21:31:36,969 [INFO] player: Playback resumed.
+2026-07-22 21:31:38,687 [INFO] player: Playback paused.
+2026-07-22 21:31:38,830 [INFO] player: Playback resumed.
+2026-07-22 21:31:40,408 [INFO] player: Playback paused.
+2026-07-22 21:31:40,626 [INFO] player: Playback resumed.
+2026-07-22 21:31:42,028 [INFO] player: Playback paused.
+2026-07-22 21:31:42,717 [INFO] player: Playback resumed.
+2026-07-22 21:31:43,852 [INFO] player: Playback paused.
+2026-07-22 21:32:06,086 [INFO] player: Playback resumed.
+2026-07-22 21:32:07,347 [INFO] player: Playback paused.
+2026-07-22 21:32:07,419 [INFO] player: Playback resumed.
+2026-07-22 21:32:07,756 [INFO] player: Playback paused.
+2026-07-22 21:32:07,785 [INFO] player: Playback resumed.
+2026-07-22 21:32:08,923 [INFO] player: Playback paused.
+2026-07-22 21:32:26,550 [INFO] player: Playback resumed.
+2026-07-22 21:32:27,411 [INFO] player: Playback paused.
+2026-07-22 21:32:27,622 [INFO] player: Playback resumed.
+2026-07-22 21:32:28,479 [INFO] player: Playback paused.
+2026-07-22 21:32:28,503 [INFO] player: Playback resumed.
+2026-07-22 21:32:29,040 [INFO] player: Playback paused.
+2026-07-22 21:32:29,379 [INFO] player: Playback resumed.
+2026-07-22 21:32:30,866 [INFO] player: Playback paused.
+2026-07-22 21:32:31,048 [INFO] player: Playback resumed.
+2026-07-22 21:32:32,539 [INFO] player: Playback paused.
+2026-07-22 21:32:32,589 [INFO] player: Playback resumed.
+2026-07-22 21:32:33,605 [INFO] player: Playback paused.
+2026-07-22 21:32:34,357 [INFO] player: Playback resumed.
+2026-07-22 21:32:34,670 [INFO] player: Playback paused.
+2026-07-22 21:32:49,514 [INFO] player: Playback resumed.
+2026-07-22 21:32:49,856 [INFO] player: Playback paused.
+2026-07-22 21:32:49,886 [INFO] player: Playback resumed.
+2026-07-22 21:32:51,781 [INFO] player: Playback paused.
+2026-07-22 21:32:51,924 [INFO] player: Playback resumed.
+2026-07-22 21:32:53,251 [INFO] player: Playback paused.
+2026-07-22 21:32:53,702 [INFO] player: Playback resumed.
+2026-07-22 21:32:54,212 [INFO] player: Playback paused.
+2026-07-22 21:32:54,949 [INFO] player: Playback resumed.
+2026-07-22 21:32:55,282 [INFO] player: Playback paused.
+2026-07-22 21:32:55,403 [INFO] player: Playback resumed.
+2026-07-22 21:32:55,889 [INFO] player: Playback paused.
+2026-07-22 21:32:56,175 [INFO] player: Playback resumed.
+2026-07-22 21:32:56,852 [INFO] player: Playback paused.
+2026-07-22 21:32:56,970 [INFO] player: Playback resumed.
+2026-07-22 21:32:58,272 [INFO] player: Playback paused.
+2026-07-22 21:32:58,273 [INFO] player: Playback resumed.
+2026-07-22 21:32:59,390 [INFO] player: Playback paused.
+2026-07-22 21:33:03,953 [INFO] player: Playback resumed.
+2026-07-22 21:33:04,752 [INFO] player: Playback paused.
+2026-07-22 21:33:04,973 [INFO] player: Playback resumed.
+2026-07-22 21:33:06,784 [INFO] player: Playback paused.
+2026-07-22 21:33:07,022 [INFO] player: Playback resumed.
+2026-07-22 21:33:09,368 [INFO] player: Playback paused.
+2026-07-22 21:33:09,833 [INFO] player: Playback resumed.
+2026-07-22 21:33:11,042 [INFO] player: Playback paused.
+2026-07-22 21:33:11,050 [INFO] player: Playback resumed.
+2026-07-22 21:33:11,553 [INFO] player: Playback paused.
