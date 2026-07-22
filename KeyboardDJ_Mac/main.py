@@ -127,6 +127,12 @@ class KeyboardDJApp:
             print("     anywhere on your computer, and FEEL THE MUSIC!  🎶")
             print("★"*57 + "\n")
             
+            print("\n" + "🍎"*28)
+            print(" MAC OS USERS: If the music doesn't play when you type,")
+            print(" you MUST grant your Terminal 'Accessibility' permissions!")
+            print(" Go to: System Settings -> Privacy & Security -> Accessibility")
+            print("🍎"*28 + "\n")
+            
             self.listener.start()
             
             # Start GUI

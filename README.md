@@ -41,6 +41,12 @@ Add your own `.mp3` songs to the `assets/music/` folder and they will automatica
 
 Minimize the terminal, start typing anywhere, and enjoy the vibe! 🎶
 
+> **🍎 IMPORTANT FOR MACBOOK USERS:**  
+> Apple's security prevents applications from reading your keyboard globally by default. If the music doesn't play when you type, you need to give your Terminal permission.
+> 1. Go to **System Settings** ➔ **Privacy & Security** ➔ **Accessibility**.
+> 2. Toggle the switch ON for your **Terminal** (or VS Code, depending on what you are using).
+> 3. Restart your terminal and run the app again!
+
 ---
 
 ## ⚙️ Advanced Settings (Hidden GUI)
