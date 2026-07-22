@@ -1,0 +1,272 @@
+2026-07-22 20:52:27,689 [INFO] __main__: ========================================
+2026-07-22 20:52:27,689 [INFO] __main__: Program Started: Keyboard DJ
+2026-07-22 20:52:27,690 [INFO] __main__: ========================================
+2026-07-22 20:52:32,124 [INFO] __main__: Initializing components...
+2026-07-22 20:52:32,125 [INFO] settings: Settings loaded successfully.
+2026-07-22 20:52:32,504 [INFO] player: Pygame mixer initialized successfully.
+2026-07-22 20:52:32,506 [INFO] settings: Settings saved successfully.
+2026-07-22 20:52:32,528 [INFO] settings: Settings saved successfully.
+2026-07-22 20:52:32,529 [INFO] player: Loaded music: song.mp3
+2026-07-22 20:52:32,529 [INFO] __main__: Opening Notepad for testing...
+2026-07-22 20:52:32,702 [INFO] keyboard_listener: Keyboard listener started.
+2026-07-22 20:52:32,706 [INFO] keyboard_listener: Global hotkeys registered.
+2026-07-22 20:55:17,661 [INFO] __main__: ========================================
+2026-07-22 20:55:17,662 [INFO] __main__: Program Started: Keyboard DJ
+2026-07-22 20:55:17,662 [INFO] __main__: ========================================
+2026-07-22 20:55:18,711 [INFO] __main__: Initializing components...
+2026-07-22 20:55:18,712 [INFO] settings: Settings loaded successfully.
+2026-07-22 20:55:19,059 [INFO] player: Pygame mixer initialized successfully.
+2026-07-22 20:55:19,061 [INFO] settings: Settings saved successfully.
+2026-07-22 20:55:19,064 [INFO] settings: Settings saved successfully.
+2026-07-22 20:55:19,064 [INFO] player: Loaded music: song.mp3
+2026-07-22 20:55:19,064 [INFO] __main__: Opening Notepad for testing...
+2026-07-22 20:55:19,159 [INFO] keyboard_listener: Keyboard listener started.
+2026-07-22 20:55:19,178 [INFO] keyboard_listener: Global hotkeys registered.
+2026-07-22 20:55:22,509 [INFO] player: Playback started.
+2026-07-22 20:55:22,829 [INFO] player: Playback paused.
+2026-07-22 20:55:24,900 [INFO] player: Playback resumed.
+2026-07-22 20:55:26,887 [INFO] player: Playback paused.
+2026-07-22 20:55:27,090 [INFO] player: Playback resumed.
+2026-07-22 20:55:28,465 [INFO] player: Playback paused.
+2026-07-22 20:55:28,468 [INFO] player: Playback resumed.
+2026-07-22 20:55:29,076 [INFO] player: Playback paused.
+2026-07-22 20:55:29,218 [INFO] player: Playback resumed.
+2026-07-22 20:55:32,278 [INFO] player: Playback paused.
+2026-07-22 20:55:32,281 [INFO] player: Playback resumed.
+2026-07-22 20:55:34,005 [INFO] player: Playback paused.
+2026-07-22 20:55:34,024 [INFO] player: Playback resumed.
+2026-07-22 20:55:34,464 [INFO] player: Playback paused.
+2026-07-22 20:55:35,213 [INFO] player: Playback resumed.
+2026-07-22 20:55:35,533 [INFO] player: Playback paused.
+2026-07-22 20:55:35,586 [INFO] player: Playback resumed.
+2026-07-22 20:55:38,732 [INFO] player: Playback paused.
+2026-07-22 20:55:38,753 [INFO] player: Playback resumed.
+2026-07-22 20:55:39,292 [INFO] player: Playback paused.
+2026-07-22 20:55:39,464 [INFO] player: Playback resumed.
+2026-07-22 20:55:41,072 [INFO] player: Playback paused.
+2026-07-22 20:55:41,288 [INFO] player: Playback resumed.
+2026-07-22 20:55:41,633 [INFO] player: Playback paused.
+2026-07-22 20:55:41,717 [INFO] player: Playback resumed.
+2026-07-22 20:55:42,447 [INFO] player: Playback paused.
+2026-07-22 20:55:42,489 [INFO] player: Playback resumed.
+2026-07-22 20:55:43,009 [INFO] player: Playback paused.
+2026-07-22 20:55:43,025 [INFO] player: Playback resumed.
+2026-07-22 20:55:43,572 [INFO] player: Playback paused.
+2026-07-22 20:55:43,593 [INFO] player: Playback resumed.
+2026-07-22 20:55:44,136 [INFO] player: Playback paused.
+2026-07-22 20:55:44,237 [INFO] player: Playback resumed.
+2026-07-22 20:55:44,748 [INFO] player: Playback paused.
+2026-07-22 20:55:44,851 [INFO] player: Playback resumed.
+2026-07-22 20:55:45,412 [INFO] player: Playback paused.
+2026-07-22 20:55:45,425 [INFO] player: Playback resumed.
+2026-07-22 20:55:46,072 [INFO] player: Playback paused.
+2026-07-22 20:55:46,128 [INFO] player: Playback resumed.
+2026-07-22 20:55:50,140 [INFO] player: Playback paused.
+2026-07-22 20:55:59,179 [INFO] player: Playback resumed.
+2026-07-22 20:55:59,671 [INFO] player: Playback paused.
+2026-07-22 20:56:01,502 [INFO] player: Playback resumed.
+2026-07-22 20:56:01,802 [INFO] player: Playback paused.
+2026-07-22 20:56:30,961 [INFO] player: Playback resumed.
+2026-07-22 20:56:32,992 [INFO] player: Playback paused.
+2026-07-22 20:56:33,131 [INFO] player: Playback resumed.
+2026-07-22 20:56:36,700 [INFO] player: Playback paused.
+2026-07-22 20:56:37,664 [INFO] player: Playback resumed.
+2026-07-22 20:56:40,662 [INFO] player: Playback paused.
+2026-07-22 20:56:40,684 [INFO] player: Playback resumed.
+2026-07-22 20:56:51,360 [INFO] player: Playback paused.
+2026-07-22 20:57:26,678 [INFO] player: Playback resumed.
+2026-07-22 20:57:27,181 [INFO] player: Playback paused.
+2026-07-22 20:57:27,456 [INFO] player: Playback resumed.
+2026-07-22 20:57:27,793 [INFO] player: Playback paused.
+2026-07-22 20:58:29,740 [INFO] player: Playback resumed.
+2026-07-22 20:58:37,282 [INFO] player: Playback paused.
+2026-07-22 20:59:22,614 [INFO] player: Playback resumed.
+2026-07-22 20:59:23,093 [INFO] player: Playback paused.
+2026-07-22 20:59:26,670 [INFO] player: Playback resumed.
+2026-07-22 20:59:26,996 [INFO] player: Playback paused.
+2026-07-22 20:59:27,524 [INFO] player: Playback resumed.
+2026-07-22 20:59:27,860 [INFO] player: Playback paused.
+2026-07-22 20:59:27,963 [INFO] player: Playback resumed.
+2026-07-22 20:59:32,432 [INFO] player: Playback paused.
+2026-07-22 20:59:32,452 [INFO] player: Playback resumed.
+2026-07-22 20:59:33,498 [INFO] player: Playback paused.
+2026-07-22 21:03:13,409 [INFO] player: Playback resumed.
+2026-07-22 21:03:14,503 [INFO] player: Playback paused.
+2026-07-22 21:03:14,615 [INFO] player: Playback resumed.
+2026-07-22 21:03:20,136 [INFO] player: Playback paused.
+2026-07-22 21:03:54,868 [INFO] player: Playback resumed.
+2026-07-22 21:03:55,210 [INFO] player: Playback paused.
+2026-07-22 21:03:55,211 [INFO] player: Playback resumed.
+2026-07-22 21:03:56,334 [INFO] player: Playback paused.
+2026-07-22 21:05:55,204 [INFO] player: Playback resumed.
+2026-07-22 21:05:59,353 [INFO] player: Playback paused.
+2026-07-22 21:05:59,533 [INFO] player: Playback resumed.
+2026-07-22 21:06:00,069 [INFO] player: Playback paused.
+2026-07-22 21:06:00,118 [INFO] player: Playback resumed.
+2026-07-22 21:06:00,428 [INFO] player: Playback paused.
+2026-07-22 21:06:02,942 [INFO] player: Playback resumed.
+2026-07-22 21:06:03,264 [INFO] player: Playback paused.
+2026-07-22 21:06:03,845 [INFO] player: Playback resumed.
+2026-07-22 21:06:04,181 [INFO] player: Playback paused.
+2026-07-22 21:06:04,411 [INFO] player: Playback resumed.
+2026-07-22 21:06:05,655 [INFO] player: Playback paused.
+2026-07-22 21:06:05,681 [INFO] player: Playback resumed.
+2026-07-22 21:06:07,332 [INFO] player: Playback paused.
+2026-07-22 21:06:07,355 [INFO] player: Playback resumed.
+2026-07-22 21:06:07,996 [INFO] player: Playback paused.
+2026-07-22 21:06:08,419 [INFO] player: Playback resumed.
+2026-07-22 21:06:08,762 [INFO] player: Playback paused.
+2026-07-22 21:06:10,280 [INFO] player: Playback resumed.
+2026-07-22 21:06:10,694 [INFO] player: Playback paused.
+2026-07-22 21:06:11,301 [INFO] player: Playback resumed.
+2026-07-22 21:06:11,811 [INFO] player: Playback paused.
+2026-07-22 21:06:12,160 [INFO] player: Playback resumed.
+2026-07-22 21:06:13,640 [INFO] player: Playback paused.
+2026-07-22 21:06:20,085 [INFO] player: Playback resumed.
+2026-07-22 21:06:20,547 [INFO] player: Playback paused.
+2026-07-22 21:06:20,768 [INFO] player: Playback resumed.
+2026-07-22 21:06:21,107 [INFO] player: Playback paused.
+2026-07-22 21:11:51,415 [INFO] __main__: ========================================
+2026-07-22 21:11:51,415 [INFO] __main__: Program Started: Keyboard DJ
+2026-07-22 21:11:51,415 [INFO] __main__: ========================================
+2026-07-22 21:11:52,489 [INFO] __main__: Initializing components...
+2026-07-22 21:11:52,511 [INFO] settings: Settings loaded successfully.
+2026-07-22 21:11:52,905 [INFO] player: Pygame mixer initialized successfully.
+2026-07-22 21:11:52,907 [INFO] settings: Settings saved successfully.
+2026-07-22 21:11:53,441 [INFO] settings: Settings saved successfully.
+2026-07-22 21:11:53,441 [INFO] player: Loaded music: song.mp3
+2026-07-22 21:12:02,176 [INFO] settings: Settings saved successfully.
+2026-07-22 21:12:02,197 [INFO] __main__: Opening Notepad for testing...
+2026-07-22 21:12:02,288 [INFO] keyboard_listener: Keyboard listener started.
+2026-07-22 21:12:02,298 [INFO] keyboard_listener: Global hotkeys registered.
+2026-07-22 21:12:04,971 [INFO] player: Playback started.
+2026-07-22 21:12:06,020 [INFO] player: Playback paused.
+2026-07-22 21:12:07,846 [INFO] player: Playback resumed.
+2026-07-22 21:12:08,158 [INFO] player: Playback paused.
+2026-07-22 21:12:08,455 [INFO] player: Playback resumed.
+2026-07-22 21:12:09,278 [INFO] player: Playback paused.
+2026-07-22 21:12:10,834 [INFO] player: Playback resumed.
+2026-07-22 21:12:11,614 [INFO] player: Playback paused.
+2026-07-22 21:12:12,734 [INFO] player: Playback resumed.
+2026-07-22 21:12:13,856 [INFO] player: Playback paused.
+2026-07-22 21:12:14,417 [INFO] player: Playback resumed.
+2026-07-22 21:12:15,027 [INFO] player: Playback paused.
+2026-07-22 21:12:15,205 [INFO] player: Playback resumed.
+2026-07-22 21:12:15,693 [INFO] player: Playback paused.
+2026-07-22 21:12:15,733 [INFO] player: Playback resumed.
+2026-07-22 21:12:16,257 [INFO] player: Playback paused.
+2026-07-22 21:12:16,326 [INFO] player: Playback resumed.
+2026-07-22 21:12:16,819 [INFO] player: Playback paused.
+2026-07-22 21:12:16,834 [INFO] player: Playback resumed.
+2026-07-22 21:12:17,379 [INFO] player: Playback paused.
+2026-07-22 21:12:17,441 [INFO] player: Playback resumed.
+2026-07-22 21:12:17,992 [INFO] player: Playback paused.
+2026-07-22 21:12:18,089 [INFO] player: Playback resumed.
+2026-07-22 21:12:18,556 [INFO] player: Playback paused.
+2026-07-22 21:12:18,602 [INFO] player: Playback resumed.
+2026-07-22 21:12:19,020 [INFO] player: Playback paused.
+2026-07-22 21:13:26,771 [INFO] __main__: ========================================
+2026-07-22 21:13:26,772 [INFO] __main__: Program Started: Keyboard DJ
+2026-07-22 21:13:26,772 [INFO] __main__: ========================================
+2026-07-22 21:13:27,877 [INFO] __main__: Initializing components...
+2026-07-22 21:13:27,896 [INFO] settings: Settings loaded successfully.
+2026-07-22 21:13:28,201 [INFO] player: Pygame mixer initialized successfully.
+2026-07-22 21:13:28,203 [INFO] settings: Settings saved successfully.
+2026-07-22 21:13:28,218 [INFO] settings: Settings saved successfully.
+2026-07-22 21:13:28,219 [INFO] player: Loaded music: song.mp3
+2026-07-22 21:13:32,470 [INFO] settings: Settings saved successfully.
+2026-07-22 21:13:32,471 [INFO] __main__: Opening Notepad for testing...
+2026-07-22 21:13:32,561 [INFO] keyboard_listener: Keyboard listener started.
+2026-07-22 21:13:32,575 [INFO] keyboard_listener: Global hotkeys registered.
+2026-07-22 21:13:34,815 [INFO] player: Playback started.
+2026-07-22 21:13:35,968 [INFO] player: Playback paused.
+2026-07-22 21:13:35,973 [INFO] player: Playback resumed.
+2026-07-22 21:13:36,277 [INFO] player: Playback paused.
+2026-07-22 21:13:36,822 [INFO] player: Playback resumed.
+2026-07-22 21:13:38,055 [INFO] player: Playback paused.
+2026-07-22 21:13:44,079 [INFO] player: Playback resumed.
+2026-07-22 21:13:44,956 [INFO] player: Playback paused.
+2026-07-22 21:13:45,083 [INFO] player: Playback resumed.
+2026-07-22 21:13:45,566 [INFO] player: Playback paused.
+2026-07-22 21:13:45,812 [INFO] player: Playback resumed.
+2026-07-22 21:13:46,131 [INFO] player: Playback paused.
+2026-07-22 21:13:50,748 [INFO] player: Playback resumed.
+2026-07-22 21:13:52,469 [INFO] player: Playback paused.
+2026-07-22 21:13:52,892 [INFO] player: Playback resumed.
+2026-07-22 21:13:54,507 [INFO] player: Playback paused.
+2026-07-22 21:13:55,723 [INFO] player: Playback resumed.
+2026-07-22 21:13:56,535 [INFO] player: Playback paused.
+2026-07-22 21:13:56,623 [INFO] player: Playback resumed.
+2026-07-22 21:13:57,856 [INFO] player: Playback paused.
+2026-07-22 21:14:02,040 [INFO] player: Playback resumed.
+2026-07-22 21:14:05,827 [INFO] player: Playback paused.
+2026-07-22 21:14:06,088 [INFO] player: Playback resumed.
+2026-07-22 21:14:07,149 [INFO] player: Playback paused.
+2026-07-22 21:14:07,407 [INFO] player: Playback resumed.
+2026-07-22 21:14:08,831 [INFO] player: Playback paused.
+2026-07-22 21:14:10,054 [INFO] player: Playback resumed.
+2026-07-22 21:14:10,919 [INFO] player: Playback paused.
+2026-07-22 21:14:10,919 [INFO] player: Playback resumed.
+2026-07-22 21:14:13,562 [INFO] player: Playback paused.
+2026-07-22 21:14:13,641 [INFO] player: Playback resumed.
+2026-07-22 21:14:18,585 [INFO] player: Playback paused.
+2026-07-22 21:14:18,642 [INFO] player: Playback resumed.
+2026-07-22 21:14:18,945 [INFO] player: Playback paused.
+2026-07-22 21:14:18,953 [INFO] player: Playback resumed.
+2026-07-22 21:14:19,255 [INFO] player: Playback paused.
+2026-07-22 21:14:19,326 [INFO] player: Playback resumed.
+2026-07-22 21:14:19,966 [INFO] player: Playback paused.
+2026-07-22 21:14:20,265 [INFO] player: Playback resumed.
+2026-07-22 21:14:20,577 [INFO] player: Playback paused.
+2026-07-22 21:14:20,600 [INFO] player: Playback resumed.
+2026-07-22 21:14:21,304 [INFO] player: Playback paused.
+2026-07-22 21:14:21,424 [INFO] player: Playback resumed.
+2026-07-22 21:14:23,643 [INFO] player: Playback paused.
+2026-07-22 21:14:23,922 [INFO] player: Playback resumed.
+2026-07-22 21:14:24,252 [INFO] player: Playback paused.
+2026-07-22 21:14:25,545 [INFO] player: Playback resumed.
+2026-07-22 21:14:25,877 [INFO] player: Playback paused.
+2026-07-22 21:14:26,209 [INFO] player: Playback resumed.
+2026-07-22 21:14:29,584 [INFO] player: Playback paused.
+2026-07-22 21:14:29,971 [INFO] player: Playback resumed.
+2026-07-22 21:14:30,963 [INFO] player: Playback paused.
+2026-07-22 21:14:30,973 [INFO] player: Playback resumed.
+2026-07-22 21:14:31,322 [INFO] player: Playback paused.
+2026-07-22 21:15:13,037 [INFO] player: Playback resumed.
+2026-07-22 21:15:13,354 [INFO] player: Playback paused.
+2026-07-22 21:15:13,395 [INFO] player: Playback resumed.
+2026-07-22 21:15:13,399 [INFO] __main__: Exiting application...
+2026-07-22 21:15:13,399 [INFO] keyboard_listener: Keyboard listener stopped.
+2026-07-22 21:15:13,400 [INFO] player: Playback stopped.
+2026-07-22 21:15:13,403 [INFO] settings: Settings saved successfully.
+2026-07-22 21:15:13,404 [INFO] __main__: Program Ended.
+2026-07-22 21:15:17,069 [INFO] __main__: ========================================
+2026-07-22 21:15:17,070 [INFO] __main__: Program Started: Keyboard DJ
+2026-07-22 21:15:17,070 [INFO] __main__: ========================================
+2026-07-22 21:15:18,245 [INFO] __main__: Initializing components...
+2026-07-22 21:15:18,248 [INFO] settings: Settings loaded successfully.
+2026-07-22 21:15:18,438 [INFO] player: Pygame mixer initialized successfully.
+2026-07-22 21:15:18,439 [INFO] settings: Settings saved successfully.
+2026-07-22 21:15:18,462 [INFO] settings: Settings saved successfully.
+2026-07-22 21:15:18,463 [INFO] player: Loaded music: song.mp3
+2026-07-22 21:15:22,495 [INFO] settings: Settings saved successfully.
+2026-07-22 21:15:22,495 [INFO] __main__: Opening Notepad for testing...
+2026-07-22 21:15:22,588 [INFO] keyboard_listener: Keyboard listener started.
+2026-07-22 21:15:22,599 [INFO] keyboard_listener: Global hotkeys registered.
+2026-07-22 21:17:48,626 [INFO] __main__: ========================================
+2026-07-22 21:17:48,628 [INFO] __main__: Program Started: Keyboard DJ
+2026-07-22 21:17:48,630 [INFO] __main__: ========================================
+2026-07-22 21:17:49,593 [INFO] __main__: Initializing components...
+2026-07-22 21:17:49,595 [INFO] settings: Settings loaded successfully.
+2026-07-22 21:17:49,930 [INFO] player: Pygame mixer initialized successfully.
+2026-07-22 21:17:49,932 [INFO] settings: Settings saved successfully.
+2026-07-22 21:17:50,541 [INFO] settings: Settings saved successfully.
+2026-07-22 21:17:50,542 [INFO] player: Loaded music: song.mp3
+2026-07-22 21:17:52,730 [INFO] settings: Settings saved successfully.
+2026-07-22 21:17:52,732 [INFO] __main__: Opening Notepad for testing...
+2026-07-22 21:17:52,804 [INFO] keyboard_listener: Keyboard listener started.
+2026-07-22 21:17:52,815 [INFO] keyboard_listener: Global hotkeys registered.
+2026-07-22 21:18:09,591 [INFO] __main__: Exiting application...
+2026-07-22 21:18:09,592 [INFO] keyboard_listener: Keyboard listener stopped.
+2026-07-22 21:18:09,594 [INFO] settings: Settings saved successfully.
+2026-07-22 21:18:09,594 [INFO] __main__: Program Ended.

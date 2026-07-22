@@ -1,0 +1,9 @@
+{
+    "timeout": 300,
+    "volume": 0.8,
+    "start_minimized": true,
+    "loop_music": true,
+    "launch_on_startup": false,
+    "music_file": ".\\pallaki lo pellikuthuru.mp3",
+    "fun_mode": "DJ Mode"
+}
