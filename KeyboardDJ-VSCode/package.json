@@ -1,0 +1,53 @@
+{
+  "name": "keyboard-dj",
+  "displayName": "Keyboard DJ",
+  "description": "Turn your coding sessions into an interactive rhythm game. Plays lofi/background music that reacts to your keystrokes!",
+  "version": "1.0.0",
+  "publisher": "Shanmukhcr7",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other",
+    "Education"
+  ],
+  "keywords": [
+    "music",
+    "lofi",
+    "typing",
+    "productivity",
+    "focus",
+    "dj",
+    "background audio",
+    "rhythm"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "keyboard-dj.start",
+        "title": "Keyboard DJ: Start Music",
+        "category": "Keyboard DJ"
+      },
+      {
+        "command": "keyboard-dj.stop",
+        "title": "Keyboard DJ: Stop Music",
+        "category": "Keyboard DJ"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.80.0",
+    "@types/node": "18.x",
+    "typescript": "^5.1.3"
+  }
+}
